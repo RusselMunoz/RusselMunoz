@@ -31,7 +31,7 @@
 
 <div align="left">
   <a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" /></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
+  <a href="[YOUR_INSTAGRAM_URL](https://www.instagram.com/anw_iwi/?next=%2Frscmnz%2F)"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" /></a>
   </div>
 
 ###
